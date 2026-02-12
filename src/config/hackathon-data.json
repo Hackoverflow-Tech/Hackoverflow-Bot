@@ -1,0 +1,127 @@
+{
+  "name": "HackOverflow 4.0",
+  "tagline": "A 36 hour sprint of innovation, code, and collaboration",
+  "type": "National Level Hackathon",
+  "organizer": "Pillai HOC College of Engineering & Technology (PHCET)",
+  "location": {
+    "venue": "PHCET Campus",
+    "address": "Rasayani, Raigad, Maharashtra - 410207",
+    "country": "India"
+  },
+  "dates": {
+    "registration_start": "December 25",
+    "registration_end": "January 31",
+    "event_start": "March 11, 2026",
+    "event_end": "March 13, 2026",
+    "duration_hours": 36
+  },
+  "statistics": {
+    "prize_pool": "₹100,000+",
+    "expected_hackers": "250+",
+    "duration": "36 hours non-stop",
+    "previous_stats": {
+      "participants": "200+",
+      "registrations": "1000+",
+      "states_represented": 12,
+      "colleges": "50+",
+      "completion_rate": "95%",
+      "satisfaction": "4.9/5"
+    }
+  },
+  "schedule": {
+    "day1": {
+      "date": "March 11",
+      "events": [
+        { "time": "11:00 AM", "event": "Check In" },
+        { "time": "1:00 PM", "event": "Lunch" },
+        { "time": "2:00 PM", "event": "Orientation & Opening Ceremony" },
+        { "time": "4:00 PM", "event": "Lab Allotment" },
+        { "time": "5:00 PM", "event": "Hackathon Begins" },
+        { "time": "9:00 PM", "event": "Dinner" },
+        { "time": "10:00 PM", "event": "Networking" }
+      ]
+    },
+    "day2": {
+      "date": "March 12",
+      "events": [
+        { "time": "Morning", "event": "Coding Sprint Continues" },
+        { "time": "Afternoon", "event": "Mid-Evaluation & Networking" },
+        { "time": "Night", "event": "Night of Fun - Not just coding!" }
+      ]
+    },
+    "day3": {
+      "date": "March 13",
+      "events": [
+        { "time": "Morning", "event": "Grand Finale & Judging" },
+        { "time": "Afternoon", "event": "Winner Announcement & Valedictory" }
+      ]
+    }
+  },
+  "project_categories": {
+    "Web Development": "30%",
+    "AI/ML": "30%",
+    "Blockchain": "15%",
+    "IoT": "15%",
+    "Other": "10%"
+  },
+  "team": {
+    "leads": [
+      { "name": "Darin Peringalloor", "role": "HackOverflow 4.0 Lead" },
+      { "name": "Sampriti Dogra", "role": "HackOverflow 4.0 Lead" }
+    ],
+    "faculty_coordinators": [
+      { "name": "Prof. Rutvij Mane", "role": "Faculty Coordinator" },
+      { "name": "Dr. Rajashree Gadhave", "role": "Head of Computer Department" },
+      { "name": "Prof. Pradnya Patil", "role": "Faculty Coordinator" }
+    ],
+    "heads": [
+      { "name": "Parth Bhoir", "role": "Event Head" },
+      { "name": "Chetan Jadhav", "role": "Technical Head & Publicity Head" },
+      { "name": "Rohan Gharat", "role": "Media Head" },
+      { "name": "Aarya Karpe", "role": "Graphics Head" },
+      { "name": "Ashutosh Chavan", "role": "Finance Head" },
+      { "name": "Aayush Gunjal", "role": "Management Head & Publicity Head" },
+      { "name": "Midhun Mohandas", "role": "PR/BD Head" },
+      { "name": "Richa Shringarpure", "role": "Documentation Head" },
+      { "name": "Vedanti Patil", "role": "Decor Head" },
+      { "name": "Sharayu Patil", "role": "Decor Head" }
+    ]
+  },
+  "contact": {
+    "email": "hackoverflow@mes.ac.in"
+  },
+  "faqs": [
+    {
+      "question": "Can I participate if I'm a beginner?",
+      "answer": "Yes! HackOverflow welcomes participants of all skill levels."
+    },
+    {
+      "question": "How to register for the offline track?",
+      "answer": "Registration is open from December 25 to January 31. Visit the official website to register."
+    },
+    {
+      "question": "What is the maximum number of members allowed in a team?",
+      "answer": "Teams typically consist of 2-4 members. Check the official guidelines for exact numbers."
+    },
+    {
+      "question": "How long is the hackathon going to last?",
+      "answer": "The hackathon lasts for 36 hours across 3 days (March 11-13, 2026)."
+    },
+    {
+      "question": "What are the perks every participant is going to get?",
+      "answer": "Participants get access to mentorship, networking opportunities, meals, accommodation arrangements, and chances to win from a prize pool of ₹100,000+."
+    },
+    {
+      "question": "Will there be any mentorship sessions?",
+      "answer": "Yes, there will be mentorship sessions throughout the hackathon with industry experts and experienced faculty."
+    },
+    {
+      "question": "What food arrangements are in place?",
+      "answer": "Lunch and dinner will be provided during the event. Check the schedule for exact timings."
+    }
+  ],
+  "theme": {
+    "status": "To be announced",
+    "note": "Participants are free to choose their own problem statements in any domain. However, after the theme is revealed, participants must align their projects with the theme by making minor modifications to ensure relevance."
+  }
+}
