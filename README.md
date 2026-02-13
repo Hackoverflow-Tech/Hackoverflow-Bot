@@ -457,6 +457,4 @@ const { name, statistics } = hackathonData;
 
 <div align="center">
 
-**Made with TypeScript, Discord.js, and Groq AI**
-
 </div>
